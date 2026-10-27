@@ -11,3 +11,6 @@ dist
 
 # Claude Code (servidor de preview local)
 .claude/
+
+# Fuente editable del resume (no se publica)
+resume-source/
